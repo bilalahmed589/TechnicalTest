@@ -1,5 +1,5 @@
 # TechnicalTest - Problem 2
-Note : This is done on java using IDE "eclipse neon"
+Note : This test is done in java using IDE "eclipse neon"
 
 A . This example is done in Java using eclipse neon.
 There are mainly three classes 
