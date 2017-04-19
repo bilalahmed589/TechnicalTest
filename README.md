@@ -1,6 +1,10 @@
 # TechnicalTest - Problem 2
 
 A . This example is done in Java using eclipse neon.
+There are mainly three classes 
+1. Parser.java -> to read and de-serialize json
+2. Process.java main class to calculate matrix
+3. ConsoleWriter.java to print output at console
 
 ##### External Libraries
 Google gson library used to de-serialized json into java object.
